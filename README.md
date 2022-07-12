@@ -22,7 +22,7 @@ The screenshot displaying output:
 
 
 ### Links
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://carson3377.github.io/QR-Code/)
 
 
 
