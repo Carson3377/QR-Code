@@ -18,6 +18,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 The screenshot displaying output:
+![QR Code](https://user-images.githubusercontent.com/105184379/178436570-c8adcefd-f34a-4a23-b66b-cb75ad1eaca8.png)
+
 
 ### Links
 - Live Site URL: (https://your-live-site-url.com)
