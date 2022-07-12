@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
@@ -15,16 +15,17 @@
     }
 
     .container {
-      margin: 520px;
+      display: flex;
+      justify-content: center;
     }
 
     img {
-      width: 200px;
-      padding: 10px;
+      width: 250px;
+      padding: 15px 15px;
     }
 
     h1.card-title {
-      font-size: 20px;
+      font-size: 21px;
       font-weight: bolder;
     }
 
@@ -35,30 +36,31 @@
   </style>
 </head>
 <body>
-  <div class="container mt-5">
-    <div class="card" style="width: 300px;">
-      <img class="card-img-top img-fluid" src="images\image-qr-code.png" alt="qr-code">
-        <div class="card-body text-center">
-          <h1 class="card-title">
-            Improve your front-end 
-            <br>
-            skills by building projects
-          </h1>
-          <br>
-          <p class="card-text">
-          Scan the QR code to visit Frontend Mentor and take your coding skills to the next level
-          </p>
+  <div class="container mt-4">
+    <div class="row">
+      <div class="col-12 col-sm-8 col-md-6 col-lg-3">
+        <div class="card" style="width: 300px;">
+          <img class="card-img-top img-fluid" src="images\image-qr-code.png" alt="qr-code">
+            <div class="card-body text-center">
+              <h1 class="card-title">
+                Improve your front-end 
+                <br>
+                skills by building projects
+              </h1>
+              <br>
+              <p class="card-text">
+              Scan the QR code to visit Frontend Mentor and take your coding skills to the next level
+              </p>
 
-          <div class="attribution fw-bold">
-            Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
-            Coded by <a href="">Carson Lee</a>.
+              <div class="attribution fw-bold">
+                Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+                Coded by <a href="">Carson Lee</a>.
+              </div>
+            </div>
           </div>
         </div>
       </div>
     </div>
   </div>
-
-
-
 </body>
 </html>
