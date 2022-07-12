@@ -44,5 +44,5 @@ I've learnt to build a digital QR-Code along with basic frontend language and us
 
 ## Acknowledgments
 
-Credit to ##Adrian from JavaScript Mastery## who recommended me this website challenges!
+Credit to ##Adrian from JavaScript Mastery who recommended me this website challenges!
 
