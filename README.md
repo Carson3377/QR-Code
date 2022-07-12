@@ -17,7 +17,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 
 ### Screenshot
-"C:\Users\user\OneDrive\Documents\GitHub\QR-Code\images\QR Code.png"
+(https://user-images.githubusercontent.com/105184379/178436155-8066a5dc-f487-47fa-a9bd-80cd6a33251e.png)
 
 ### Links
 - Live Site URL: (https://your-live-site-url.com)
